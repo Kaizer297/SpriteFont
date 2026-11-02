@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <!-- Fondo redondeado estilo nodo Control de Godot -->
+  <rect width="16" height="16" rx="3" fill="#478cbf" />
+  <!-- Letras 'SF' en pixel art -->
+  <path fill="#ffffff" d="M2 3h5v2H2V3zm0 2h2v2H2V5zm0 2h5v2H2V7zm3 2h2v2H5V9zm-3 2h5v2H2v-2zm7-8h5v2H9V3zm0 2h2v8H9V5zm2 2h3v2h-3V7z" />
+</svg>
